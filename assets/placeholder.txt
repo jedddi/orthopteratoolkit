@@ -1,0 +1,2 @@
+This folder is for assets like images and other static files.
+Add a logo.png file here to display it in the application. 
