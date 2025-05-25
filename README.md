@@ -1,6 +1,7 @@
 # 🦗 Orthoptera Analysis Toolkit
 
-A comprehensive toolkit for analyzing, segmenting, and processing orthoptera (crickets, grasshoppers, etc.) audio recordings.
+A comprehensive toolkit for analyzing, segmenting, and processing orthoptera (crickets, grasshoppers, etc.) audio recordings. 
+(Note: Although it was made for Orthoptera Calls, it is not limited to other types of audio data)
 
 ## Overview
 
